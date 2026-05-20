@@ -10,7 +10,7 @@ module.exports = {
   botVersion: "3.0.0",
 
   // ─── Branding ──────────────────────────────
-  botPic: process.env.BOT_PIC || "hhttps://files.catbox.moe/pvc7d6.jpg",
+  botPic: process.env.BOT_PIC || "https://files.catbox.moe/pvc7d6.jpg",
   botFooter: "Powered by CYBERPUNKBULLY",
 
   // ─── Channel & Group (Auto-follow on first connect) ───
